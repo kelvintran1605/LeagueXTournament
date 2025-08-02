@@ -1,0 +1,271 @@
+[{
+  "_id": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "name": "FCB",
+  "playerIds": [
+    {
+      "$oid": "687bd57a6ca5519d02d52488"
+    },
+    {
+      "$oid": "688c3bced6cb67fad1f4509e"
+    },
+    {
+      "$oid": "688e5c2d6dd11edfa64c8120"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "r3rdegre2bfer6qtnaut",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022096/r3rdegre2bfer6qtnaut.webp"
+  },
+  "description": "This is my first team!",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "thdangkhoa2004@gmail.com",
+  "captainId": {
+    "$oid": "687bd57a6ca5519d02d52488"
+  },
+  "__v": 1,
+  "invitationRequests": []
+},
+{
+  "_id": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "name": "PSG",
+  "playerIds": [
+    {
+      "$oid": "688c3d5cd6cb67fad1f4512f"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "n33ososamsw5dsn5fcli",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754021371/n33ososamsw5dsn5fcli.jpg"
+  },
+  "description": "Paris Saint Germain",
+  "location": "Vancouver, British Columbia",
+  "contactEmail": "psg@gmail.com",
+  "captainId": {
+    "$oid": "688c3d5cd6cb67fad1f4512f"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "name": "Bayern Munich",
+  "playerIds": [
+    {
+      "$oid": "688c3e3d5f83565b7db684db"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "x01ofxlchmrgzyurqtds",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754021536/x01ofxlchmrgzyurqtds.svg"
+  },
+  "description": "Bayern Munich",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "bayern@gmail.com",
+  "captainId": {
+    "$oid": "688c3e3d5f83565b7db684db"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "name": "Manchester United",
+  "playerIds": [
+    {
+      "$oid": "688c3f0d2ad529906f8d59aa"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "wg28dkadhomdkz1wz1bp",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022021/wg28dkadhomdkz1wz1bp.png"
+  },
+  "description": "MU",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "mu@gmail.com",
+  "captainId": {
+    "$oid": "688c3f0d2ad529906f8d59aa"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "name": "Manchester City",
+  "playerIds": [
+    {
+      "$oid": "688c3f152ad529906f8d59ab"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "ej4eodrohqdjm2qtwiqh",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022149/ej4eodrohqdjm2qtwiqh.png"
+  },
+  "description": "MC",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "mc@gmail.com",
+  "captainId": {
+    "$oid": "688c3f152ad529906f8d59ab"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "name": "Liverpool",
+  "playerIds": [
+    {
+      "$oid": "688c3f1c2ad529906f8d59ac"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "ca9tttemyjc61bljcyqo",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022251/ca9tttemyjc61bljcyqo.png"
+  },
+  "description": "lvp",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "lvp@gmail.com",
+  "captainId": {
+    "$oid": "688c3f1c2ad529906f8d59ac"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "name": "Real Madrid",
+  "playerIds": [
+    {
+      "$oid": "688c41f98170582f4351ff6b"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "fyfji9kqqz7923qu8azt",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022522/fyfji9kqqz7923qu8azt.png"
+  },
+  "description": "The worst team ever",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "real@gmail.com",
+  "captainId": {
+    "$oid": "688c41f98170582f4351ff6b"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c4450d6cb67fad1f453c3"
+  },
+  "name": "Atletico Madrid",
+  "playerIds": [
+    {
+      "$oid": "688c42008170582f4351ff6c"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "vfewd7yvprb9rvxqqtk1",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022987/vfewd7yvprb9rvxqqtk1.jpg"
+  },
+  "description": "atm",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "atm@gmail.com",
+  "captainId": {
+    "$oid": "688c42008170582f4351ff6c"
+  },
+  "invitationRequests": [],
+  "tournamentId": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "name": "Atletico Madrid",
+  "playerIds": [
+    {
+      "$oid": "688c42008170582f4351ff6c"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "l4p12e6ijfdwxw9oe6yi",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754022988/l4p12e6ijfdwxw9oe6yi.jpg"
+  },
+  "description": "atm",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "atm@gmail.com",
+  "captainId": {
+    "$oid": "688c42008170582f4351ff6c"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c448fd6cb67fad1f453fe"
+  },
+  "name": "Chelsea",
+  "playerIds": [
+    {
+      "$oid": "688c446579b32f07c86d1031"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "syzqw0wocsvznnotais4",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754023051/syzqw0wocsvznnotais4.png"
+  },
+  "description": "cs",
+  "location": "Surrey, British Columbia",
+  "contactEmail": "chelsea@gmail.com",
+  "captainId": {
+    "$oid": "688c446579b32f07c86d1031"
+  },
+  "invitationRequests": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688d5d6ad61ec9584eda2afd"
+  },
+  "name": "Chelsea2",
+  "playerIds": [
+    {
+      "$oid": "688d5c9fd61ec9584eda2a48"
+    }
+  ],
+  "matches": [],
+  "teamLogo": {
+    "publicId": "ydkmi71zdax92vvabssc",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754094984/ydkmi71zdax92vvabssc.jpg"
+  },
+  "description": "1234",
+  "location": "Vancouver, British Columbia",
+  "contactEmail": "psg@gmail.com",
+  "captainId": {
+    "$oid": "688d5c9fd61ec9584eda2a48"
+  },
+  "invitationRequests": [],
+  "__v": 0
+}]

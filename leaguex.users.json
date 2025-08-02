@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "687bd57a6ca5519d02d52488"
+  },
+  "name": "Kelvin Tran",
+  "email": "user@gmail.com",
+  "position": "Forward",
+  "gender": "other",
+  "password": "$2b$10$LumZcQczTv4WYSZ9fFBGOOdVdqiSn9kYAyi3ikbE4LHgWtPPX8ufq",
+  "location": "Richmond, BC",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "profileImage": {
+    "publicId": "v12oz6ajotehfdgmupef",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754117213/v12oz6ajotehfdgmupef.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "688a8d63fd5525547145ae81"
+  },
+  "name": "admin5",
+  "email": "admin5@gmail.com",
+  "password": "$2b$10$HM2Yo9EUzMNnHZFaqkSdsu27tJw0Iyx7SPg9moUIJaIUjX4R.wxzK",
+  "friendlyMatches": [],
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8fadcec2689ee748983e"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$j0yAPB1RVLigOxRevWLqpeMfOuD510KATUOWrs2Xu/trvYiLGSY2y",
+  "friendlyMatches": [],
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c3a6279a03c0029c96113"
+  },
+  "name": "admin1",
+  "email": "admin1@gmail.com",
+  "password": "$2b$10$pKhQoUKyNkcQtHNN1ln5su5YXDxsqLMF8qNPLr1BYAROssZ6W3Vym",
+  "friendlyMatches": [],
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c3bced6cb67fad1f4509e"
+  },
+  "name": "Khoa  Tran",
+  "email": "af@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$RtLiUFR0ofFqsFLjiLFmr.QixL4FWjCf1mZBdtlBxjXepTfaL1D/6",
+  "location": "Surrey, Ontario, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "profileImage": {
+    "publicId": "mykyzxy1anlywcje7yf3",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754105523/mykyzxy1anlywcje7yf3.jpg"
+  },
+  "teamId": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c3d5cd6cb67fad1f4512f"
+  },
+  "name": "KHOA TRAN",
+  "email": "user2@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c3e3d5f83565b7db684db"
+  },
+  "name": "KHOA TRAN",
+  "email": "user3@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c3f0d2ad529906f8d59aa"
+  },
+  "name": "KHOA TRAN",
+  "email": "user4@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c3f152ad529906f8d59ab"
+  },
+  "name": "KHOA TRAN",
+  "email": "user5@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c3f1c2ad529906f8d59ac"
+  },
+  "name": "KHOA TRAN",
+  "email": "user6@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c41f98170582f4351ff6b"
+  },
+  "name": "KHOA TRAN",
+  "email": "user7@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c42008170582f4351ff6c"
+  },
+  "name": "KHOA TRAN",
+  "email": "user8@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c446579b32f07c86d1031"
+  },
+  "name": "KHOA TRAN",
+  "email": "user9@gmail.com",
+  "position": "Goal Keeper",
+  "gender": "male",
+  "password": "$2b$10$z7m8VEhIkELqG8n13o/BlO7eCO.HGBzuGe/tWbQZ2tkeS/Rv8YzbK",
+  "location": "Surrey, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688c448fd6cb67fad1f453fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d5c9fd61ec9584eda2a48"
+  },
+  "name": "Khoa  Tran ",
+  "email": "thdangkhoa04@gmail.com",
+  "position": "Defender",
+  "gender": "male",
+  "password": "$2b$10$2/tCv5mNMBSRqyfBMokYVuVRNsChBmEX4NE7D/GpGm8ehpKpVE8nC",
+  "location": "Vancouver, BC, V3T 2M3",
+  "friendlyMatches": [],
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "688d5d6ad61ec9584eda2afd"
+  },
+  "profileImage": {
+    "publicId": "tw85xvz87foktjmuh2h1",
+    "url": "https://res.cloudinary.com/djqqqvn1n/image/upload/v1754095017/tw85xvz87foktjmuh2h1.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d5f3cd61ec9584eda2def"
+  },
+  "name": "admin2",
+  "email": "admin2@gmail.com",
+  "password": "$2b$10$vnxxUDTqwUIELZ1D76w6QuJviT0p5AKqez6Ykc2FCKr/XKNCN7eDG",
+  "friendlyMatches": [],
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688e5c2d6dd11edfa64c8120"
+  },
+  "name": "Khoa Tran",
+  "email": "thdangkhoa2004@gmail.com",
+  "position": "Defender",
+  "gender": "male",
+  "password": "$2b$10$x/wG1.4WmB2K19/ZMIdaeOxbfvm.kGMjacASm4YEH7w8zEt9G/ojW",
+  "location": "Surrey, BC, V3T 2M3",
+  "role": "user",
+  "__v": 0,
+  "teamId": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+}]

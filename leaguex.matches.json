@@ -1,0 +1,812 @@
+[{
+  "_id": {
+    "$oid": "688d7f90028172b73c5e7b9d"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "teamB": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "date": {
+    "$date": "2025-08-05T02:57:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T03:01:36.397Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d7f90028172b73c5e7b9e"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "date": {
+    "$date": "2025-08-05T02:57:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T03:01:36.398Z"
+  },
+  "__v": 0,
+  "score": "3-4",
+  "winner": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d7f90028172b73c5e7b9f"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "teamB": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "date": {
+    "$date": "2025-08-05T02:57:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T03:01:36.398Z"
+  },
+  "__v": 0,
+  "score": "3-2",
+  "winner": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d7f90028172b73c5e7ba0"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-05T02:57:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T03:01:36.398Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d96dc1cf652fdf6f96fde"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "teamB": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "date": {
+    "$date": "2025-08-06T02:58:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T04:41:00.899Z"
+  },
+  "__v": 0,
+  "score": "5-4",
+  "winner": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d96dc1cf652fdf6f96fdf"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-06T02:58:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T04:41:00.899Z"
+  },
+  "__v": 0,
+  "score": "2-3",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688d96ef1cf652fdf6f97005"
+  },
+  "tournamentId": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "round": 3,
+  "teamA": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-07T02:59:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T04:41:19.378Z"
+  },
+  "__v": 0,
+  "score": "3-2",
+  "winner": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da89d727f68e539f92f79"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-03T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:56:45.072Z"
+  },
+  "__v": 0,
+  "score": "3-4",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da89d727f68e539f92f7a"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "teamB": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "date": {
+    "$date": "2025-08-03T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:56:45.072Z"
+  },
+  "__v": 0,
+  "score": "2-3",
+  "winner": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da89d727f68e539f92f7b"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c448fd6cb67fad1f453fe"
+  },
+  "date": {
+    "$date": "2025-08-03T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:56:45.073Z"
+  },
+  "__v": 0,
+  "score": "3-2",
+  "winner": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da89d727f68e539f92f7c"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "teamB": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "date": {
+    "$date": "2025-08-03T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:56:45.073Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da92f727f68e539f92fdb"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "teamB": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "date": {
+    "$date": "2025-08-05T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:59:11.700Z"
+  },
+  "__v": 0,
+  "score": "2-3",
+  "winner": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da92f727f68e539f92fdc"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "date": {
+    "$date": "2025-08-05T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T05:59:11.700Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da9cf727f68e539f931d0"
+  },
+  "tournamentId": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "round": 3,
+  "teamA": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "teamB": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "date": {
+    "$date": "2025-08-07T05:47:00.000Z"
+  },
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:01:51.520Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db143a9491eeeca7ad48f"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "teamB": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "date": {
+    "$date": "2025-08-15T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:33:39.239Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db143a9491eeeca7ad490"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "teamB": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "date": {
+    "$date": "2025-08-15T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:33:39.240Z"
+  },
+  "__v": 0,
+  "score": "3-4",
+  "winner": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db143a9491eeeca7ad491"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "teamB": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "date": {
+    "$date": "2025-08-15T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:33:39.242Z"
+  },
+  "__v": 0,
+  "score": "4-5",
+  "winner": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db143a9491eeeca7ad492"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-15T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:33:39.242Z"
+  },
+  "__v": 0,
+  "score": "2-1",
+  "winner": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db16da9491eeeca7ad4e6"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "teamB": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "date": {
+    "$date": "2025-08-16T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:34:21.492Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db16da9491eeeca7ad4e7"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "teamB": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "date": {
+    "$date": "2025-08-16T18:22:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:34:21.492Z"
+  },
+  "__v": 0,
+  "score": "2-3",
+  "winner": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  }
+},
+{
+  "_id": {
+    "$oid": "688db175a9491eeeca7ad50e"
+  },
+  "tournamentId": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "round": 3,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "date": {
+    "$date": "2025-08-18T06:23:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T06:34:29.781Z"
+  },
+  "__v": 0,
+  "score": "3-4",
+  "winner": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5e7e6dd11edfa64c853d"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c3e01d6cb67fad1f45148"
+  },
+  "teamB": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "date": {
+    "$date": "2025-08-16T06:50:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:52:46.238Z"
+  },
+  "__v": 0,
+  "score": "1-3",
+  "winner": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5e7e6dd11edfa64c853e"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  },
+  "teamB": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "date": {
+    "$date": "2025-08-16T06:50:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:52:46.238Z"
+  },
+  "__v": 0,
+  "score": "3-4",
+  "winner": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5e7e6dd11edfa64c853f"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  },
+  "date": {
+    "$date": "2025-08-16T06:50:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:52:46.239Z"
+  },
+  "__v": 0,
+  "score": "2-1",
+  "winner": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5e7e6dd11edfa64c8540"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 1,
+  "teamA": {
+    "$oid": "688c4451d6cb67fad1f453d3"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-16T06:50:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:52:46.239Z"
+  },
+  "__v": 0,
+  "score": "1-3",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5f186dd11edfa64c8573"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "687bd5966ca5519d02d52490"
+  },
+  "teamB": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "date": {
+    "$date": "2025-08-17T06:49:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:55:20.815Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5f186dd11edfa64c8574"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 2,
+  "teamA": {
+    "$oid": "688c416fd6cb67fad1f45290"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-17T06:49:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:55:20.815Z"
+  },
+  "__v": 0,
+  "score": "2-3",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5f256dd11edfa64c859a"
+  },
+  "tournamentId": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "round": 3,
+  "teamA": {
+    "$oid": "688c4109d6cb67fad1f4525a"
+  },
+  "teamB": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  },
+  "date": {
+    "$date": "2025-08-22T18:53:00.000Z"
+  },
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-08-02T18:55:33.333Z"
+  },
+  "__v": 0,
+  "score": "1-2",
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+}]

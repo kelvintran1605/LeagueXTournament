@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "688d7e97028172b73c5e77fa"
+  },
+  "name": "August League",
+  "teamIds": [
+    {
+      "$oid": "688c4109d6cb67fad1f4525a"
+    },
+    {
+      "$oid": "687bd5966ca5519d02d52490"
+    },
+    {
+      "$oid": "688c416fd6cb67fad1f45290"
+    },
+    {
+      "$oid": "688c4451d6cb67fad1f453d3"
+    },
+    {
+      "$oid": "688c3e01d6cb67fad1f45148"
+    },
+    {
+      "$oid": "688c3ea9d6cb67fad1f45191"
+    },
+    {
+      "$oid": "688c4089d6cb67fad1f451ea"
+    },
+    {
+      "$oid": "688c4232d6cb67fad1f452c6"
+    }
+  ],
+  "description": "Hello World",
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "maxTeams": 8,
+  "status": "finished",
+  "currentRound": 3,
+  "roundStartDates": [
+    {
+      "$date": "2025-08-05T02:57:00.000Z"
+    },
+    {
+      "$date": "2025-08-06T02:58:00.000Z"
+    },
+    {
+      "$date": "2025-08-07T02:59:00.000Z"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T02:57:27.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-02T04:41:30.450Z"
+  },
+  "__v": 9,
+  "winner": {
+    "$oid": "687bd5966ca5519d02d52490"
+  }
+},
+{
+  "_id": {
+    "$oid": "688da684727f68e539f92bcf"
+  },
+  "name": "LeagueX Summer Cup",
+  "teamIds": [
+    {
+      "$oid": "688c3ea9d6cb67fad1f45191"
+    },
+    {
+      "$oid": "688c4232d6cb67fad1f452c6"
+    },
+    {
+      "$oid": "688c3e01d6cb67fad1f45148"
+    },
+    {
+      "$oid": "688c4451d6cb67fad1f453d3"
+    },
+    {
+      "$oid": "688c416fd6cb67fad1f45290"
+    },
+    {
+      "$oid": "688c448fd6cb67fad1f453fe"
+    },
+    {
+      "$oid": "687bd5966ca5519d02d52490"
+    },
+    {
+      "$oid": "688c4089d6cb67fad1f451ea"
+    }
+  ],
+  "description": "Second Cup",
+  "location": "Surrey, BC",
+  "field": "Guildford Recreational Centre",
+  "maxTeams": 8,
+  "status": "finished",
+  "currentRound": 3,
+  "roundStartDates": [
+    {
+      "$date": "2025-08-03T05:47:00.000Z"
+    },
+    {
+      "$date": "2025-08-05T05:47:00.000Z"
+    },
+    {
+      "$date": "2025-08-07T05:47:00.000Z"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T05:47:48.086Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-02T06:02:39.609Z"
+  },
+  "__v": 9,
+  "winner": {
+    "$oid": "688c4089d6cb67fad1f451ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "688dae9c360176ceb79198db"
+  },
+  "name": "LeagueX Spring Cup",
+  "teamIds": [
+    {
+      "$oid": "688c4089d6cb67fad1f451ea"
+    },
+    {
+      "$oid": "688c4451d6cb67fad1f453d3"
+    },
+    {
+      "$oid": "687bd5966ca5519d02d52490"
+    },
+    {
+      "$oid": "688c416fd6cb67fad1f45290"
+    },
+    {
+      "$oid": "688c4109d6cb67fad1f4525a"
+    },
+    {
+      "$oid": "688c3e01d6cb67fad1f45148"
+    },
+    {
+      "$oid": "688c3ea9d6cb67fad1f45191"
+    },
+    {
+      "$oid": "688c4232d6cb67fad1f452c6"
+    }
+  ],
+  "description": "123",
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "maxTeams": 8,
+  "status": "finished",
+  "currentRound": 3,
+  "roundStartDates": [
+    {
+      "$date": "2025-08-15T18:22:00.000Z"
+    },
+    {
+      "$date": "2025-08-16T18:22:00.000Z"
+    },
+    {
+      "$date": "2025-08-18T06:23:00.000Z"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T06:22:20.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-02T06:34:41.982Z"
+  },
+  "__v": 13,
+  "winner": {
+    "$oid": "688c3ea9d6cb67fad1f45191"
+  }
+},
+{
+  "_id": {
+    "$oid": "688e5dd66dd11edfa64c81ab"
+  },
+  "name": "LeagueX Testing Tournament",
+  "teamIds": [
+    {
+      "$oid": "688c3e01d6cb67fad1f45148"
+    },
+    {
+      "$oid": "687bd5966ca5519d02d52490"
+    },
+    {
+      "$oid": "688c4089d6cb67fad1f451ea"
+    },
+    {
+      "$oid": "688c4109d6cb67fad1f4525a"
+    },
+    {
+      "$oid": "688c416fd6cb67fad1f45290"
+    },
+    {
+      "$oid": "688c3ea9d6cb67fad1f45191"
+    },
+    {
+      "$oid": "688c4451d6cb67fad1f453d3"
+    },
+    {
+      "$oid": "688c4232d6cb67fad1f452c6"
+    }
+  ],
+  "description": "Hello World",
+  "location": "Vancouver, BC",
+  "field": "VCF",
+  "maxTeams": 8,
+  "status": "finished",
+  "currentRound": 3,
+  "roundStartDates": [
+    {
+      "$date": "2025-08-16T06:50:00.000Z"
+    },
+    {
+      "$date": "2025-08-17T06:49:00.000Z"
+    },
+    {
+      "$date": "2025-08-22T18:53:00.000Z"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T18:49:58.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-02T18:55:41.598Z"
+  },
+  "__v": 11,
+  "winner": {
+    "$oid": "688c4232d6cb67fad1f452c6"
+  }
+}]
